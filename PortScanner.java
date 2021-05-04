@@ -2,7 +2,7 @@
  * A simple PortScanner
  * Checks if the port is open for connections
  */
-package ru.ncedu.tsarev.portscanner;
+
 
 import java.io.IOException;
 import java.net.Socket;
