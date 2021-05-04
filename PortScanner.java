@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Tsarev Alexey
+ * @author Malik Fomin
  */
 
 public class PortScanner {
